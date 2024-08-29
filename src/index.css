@@ -10,3 +10,7 @@
   box-sizing: border-box;
   font-family: "Inter", sans-serif;
 }
+
+body {
+  background-color: #e0e0e0;
+}

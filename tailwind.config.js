@@ -5,7 +5,7 @@ export default {
     extend: {
       colors: {},
       width: {
-        "[450px]": "450px",
+        "[400px]": "400px",
         "[90%]": "90%",
       },
       height: {
