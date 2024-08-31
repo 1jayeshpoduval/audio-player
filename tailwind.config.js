@@ -5,8 +5,10 @@ export default {
     extend: {
       colors: {},
       width: {
-        "[400px]": "400px",
         "[90%]": "90%",
+      },
+      maxWidth: {
+        "[450px]": "450px",
       },
       height: {
         "[5px]": "5px",
