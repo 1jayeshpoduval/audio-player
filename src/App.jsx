@@ -36,9 +36,9 @@ function App() {
 
   return (
     <>
-      <section className="h-screen p-12">
+      <section className="h-screen py-12">
         <div className="mx-auto flex h-full w-[90%] max-w-screen-2xl items-center justify-center">
-          <div className="flex w-[400px] flex-col gap-4 rounded-3xl bg-zinc-100 p-5">
+          <div className="flex w-full max-w-[450px] flex-col gap-4 rounded-3xl bg-zinc-100 p-5">
             <div className="flex items-center gap-4">
               <div>
                 <motion.img
